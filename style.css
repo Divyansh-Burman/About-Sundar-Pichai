@@ -1,12 +1,11 @@
-body {
-    text-align: center;
+.travel_mainDiv {
+    border: 1px solid lightgrey;
 }
 
-#profile {
-    width: 175;
-    margin-bottom: 50px;
-    border-radius: 50%;
+.travel_mainDiv img {
+    width: 100%;
 }
 
-2
-
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin: 20px;
+}
